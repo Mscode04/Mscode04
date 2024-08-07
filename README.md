@@ -39,9 +39,12 @@ MERN Stack Developer and Python Developer with experience in web applications us
 # 🗂️ Contribution Graph
 <div align="center">
   <a href="https://github.com/Mscode04/github-readme-activity-graph">
-    <img alt="Mscode04's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mscode04&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="192px"/>
+    <img alt="Mscode04's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mscode04&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
   </a>
 </div>
+
+# 🌐 Personal Webpage
+Check out my personal website: [Mscode04's Personal Website](https://mscode04.github.io/PERSONAL-WEBSITE/)
 
 ---
 
