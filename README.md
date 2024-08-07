@@ -9,7 +9,7 @@ MERN Stack Developer and Python Developer with experience in web applications us
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24054252/shaheen-kp)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Msk012005)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -24,18 +24,17 @@ MERN Stack Developer and Python Developer with experience in web applications us
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Mscode04&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mscode04&theme=light&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mscode04&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mscode04&limit=5&theme=light&combine_all_yearly_contributions=true)
-
-### ✨ Animated GitHub Stats
-![Animated GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mscode04&theme=light&hide_border=false&include_all_commits=true&count_private=true&hide=prs&show_icons=true&include_all_commits=true&count_private=true)
+<div align="center">
+  <a href="https://github.com/Mscode04/github-readme-stats">
+    <img alt="Mscode04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mscode04&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
+  </a>
+  <a href="https://github.com/Mscode04/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mscode04's streak" src="https://streak-stats.demolab.com/?user=Mscode04&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/Mscode04/github-readme-stats">
+    <img alt="Mscode04's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mscode04&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/>
+  </a>
+</div>
 
 ---
 
