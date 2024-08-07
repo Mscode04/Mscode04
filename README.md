@@ -34,6 +34,9 @@ MERN Stack Developer and Python Developer with experience in web applications us
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mscode04&limit=5&theme=light&combine_all_yearly_contributions=true)
 
+### 🐍 Contributions Snake
+![Contributions Snake](https://github-readme-snake.herokuapp.com/api?username=Mscode04&theme=light)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Mscode04&icon=6&color=7)](https://visitcount.itsvg.in)
 
