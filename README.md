@@ -37,6 +37,14 @@ MERN Stack Developer and Python Developer with experience in web applications us
 ### 🐍 Snake Contributions
 ![snake gif](https://github-readme-snake.herokuapp.com/svg?username=Mscode04&theme=light)
 
+<div align="center">
+  <a href="https://open.spotify.com/user/SHAHEEN KP">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SHAHEEN%20KP&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Mscode04&icon=6&color=7)](https://visitcount.itsvg.in)
 
