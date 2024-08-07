@@ -36,6 +36,13 @@ MERN Stack Developer and Python Developer with experience in web applications us
   </a>
 </div>
 
+# 🗂️ Contribution Graph
+<div align="center">
+  <a href="https://github.com/Mscode04/github-readme-activity-graph">
+    <img alt="Mscode04's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mscode04&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="192px"/>
+  </a>
+</div>
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
