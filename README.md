@@ -1,4 +1,4 @@
-<h2 align="left">Hi There, I'm Mohammed Shaheen KP<br>Mern Stack  Developer</h2>
+<h2 align="left">Hi There, I'm Mohammed Shaheen KP<br>MERN Stack Developer</h2>
 
 # 💫 About Me
 MERN Stack Developer and Python Developer with experience in web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in Python for backend and UI projects, with expertise in database management and API integration. Strong problem-solving skills and a passion for web design.
@@ -29,16 +29,14 @@ MERN Stack Developer and Python Developer with experience in web applications us
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mscode04&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mscode04&limit=5&theme=light&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Mscode04&limit=5&theme=light&combine_all_yearly_contributions=true)
 
-
-
-###
+### ✨ Animated GitHub Stats
+![Animated GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mscode04&theme=light&hide_border=false&include_all_commits=true&count_private=true&hide=prs&show_icons=true&include_all_commits=true&count_private=true)
 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
