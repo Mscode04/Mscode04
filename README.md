@@ -39,7 +39,6 @@ MERN Stack Developer and Python Developer with experience in web applications us
 ###
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mscode04&icon=6&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
