@@ -27,14 +27,6 @@ Check out my personal website: [shaheenkp.in](https://shaheenkp.in/)
 
 
 
-## 🌐 Connect with me
-
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30">](https://www.linkedin.com/in/developer-shaheen/) 
-[<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white" height="30">](mailto:ms.shaheenkp@gmail.com) 
-[<img src="https://img.shields.io/badge/Resume-%2312100E.svg?logo=adobe-acrobat-reader&logoColor=white" height="30">]([https://drive.google.com/file/d/1XDP7rusRRjdXCl0pDYVi8jRVI-5J3G7s/view?usp=sharing](https://drive.google.com/file/d/11UKtmBmnSfNEGN9wVCnDymOrx-we23aA/view?usp=drive_link))
-
-
-
 # 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/Mscode04/github-readme-stats">
