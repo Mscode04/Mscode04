@@ -1,7 +1,5 @@
 
 
-
-
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="Animated Text">
 </h1>
@@ -49,7 +47,13 @@ Check out my personal website: [shaheenkp.in](https://shaheenkp.in/)
 
 
 
+<h1 align="center">Badges</h1>
 
+<p align="center">
+  <!-- Example badges -->
+  <img src="https://img.shields.io/github/followers/Mscode04?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Mscode04?style=social" alt="GitHub stars" />
+</p>
 
 
 
