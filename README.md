@@ -57,6 +57,6 @@ Check out my personal website: [shaheenkp.in](https://shaheenkp.in/)
   <img src="https://img.shields.io/github/stars/Mscode04?style=social" alt="GitHub stars" />
 </p>
 
-
+<img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </details>
