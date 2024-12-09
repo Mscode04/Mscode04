@@ -48,15 +48,6 @@ Check out my personal website: [shaheenkp.in](https://shaheenkp.in/)
 </div>
 
 
-
-<h1 align="center">Badges</h1>
-
-<p align="center">
-  <!-- Example badges -->
-  <img src="https://img.shields.io/github/followers/Mscode04?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Mscode04?style=social" alt="GitHub stars" />
-</p>
-
 <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </details>
