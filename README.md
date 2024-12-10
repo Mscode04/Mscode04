@@ -29,9 +29,9 @@ Check out my personal website: [shaheenkp.in](https://shaheenkp.in/)
 
 # 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/Mscode04/github-readme-stats">
+<!--   <a href="https://github.com/Mscode04/github-readme-stats">
     <img alt="Mscode04's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mscode04&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="192px"/>
-  </a>
+  </a> -->
   <a href="https://github.com/Mscode04/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mscode04's streak" src="https://streak-stats.demolab.com/?user=Mscode04&theme=radical&hide_border=true"/>
   </a>
